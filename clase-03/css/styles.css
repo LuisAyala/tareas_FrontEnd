@@ -284,6 +284,7 @@ legend {
 /* El footer queda sin estilo a proposito: es uno de los retos. */
 footer {
   display: flex;
+  
   width: 100%;
   background: #fff;
   /*border: 2px solid var(--color-acento);
